@@ -3,11 +3,8 @@
 
 ## First Seriouse Project
 > The first project is named "vote".
-
 The first project was a project to make a softwere to count a votes in favor (1) or againgst (2).
-
 It was the first project were I used "while".
-
 It was preaty easy :-).
 
 ## Second Project
