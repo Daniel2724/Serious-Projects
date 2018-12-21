@@ -1,5 +1,5 @@
 # Serious-Projects
->Collection of my personal projects where there is some sort of complexity and logical problem.
+#### Collection of my personal projects where there is some sort of complexity and logical problem.
 
 ## First Seriouse Project
 > The first project is vote
@@ -15,7 +15,7 @@ It was preaty easy :-).
 * It need to take the grades from all the classes.
 * Colculate th average of the grades for each class spesific and for all clases together.
 * And even a littel bit more.
-> And why it is School_Grades_2 ? : Simply because I wrote a code like this before but it was bad and i wrote it again.
+>> And why it is School_Grades_2 ? : Simply because I wrote a code like this before but it was bad and i wrote it again.
 
 >> It was the first project were I use a lot of while loops (and in some point it started to be a mess because I forgot to write a code line that will make zero every variable in the while loop)
 
@@ -24,4 +24,4 @@ It was preaty easy :-).
 
 // this project not yet complited !!!
 
-< It was my first really challenging problem to selve.
+It was my first really challenging problem to selve.
