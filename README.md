@@ -1,8 +1,7 @@
 # Serious-Projects
 >Collection of my personal projects where there is some sort of complexity and logical problem.
 
------------------------------------------------------------------------------------------------------------------------------
-
+## First Seriouse Project
 The first project was a project to make a softwere to count a votes in favor (1) or againgst (2).
 
 It was the first project were I used "while".
