@@ -11,9 +11,9 @@ It was preaty easy :-).
 ## Second Project
 The second project is School_Grades_2.java
 
-* **It need to take the grades from all the classes.
-* **Colculate th average of the grades for each class spesific and for all clases together.
-* **And even a littel bit more.
+* It need to take the grades from all the classes.
+* Colculate th average of the grades for each class spesific and for all clases together.
+* And even a littel bit more.
 <And why it is _2.
 
 Simply because I wrote a code like this before but it was bad and i wrote it again.
